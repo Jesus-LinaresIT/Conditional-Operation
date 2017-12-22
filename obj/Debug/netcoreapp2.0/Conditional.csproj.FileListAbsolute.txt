@@ -1,0 +1,11 @@
+c:\users\raule\Source\repos\Conditional\Conditional\bin\Debug\netcoreapp2.0\Conditional.deps.json
+c:\users\raule\Source\repos\Conditional\Conditional\bin\Debug\netcoreapp2.0\Conditional.runtimeconfig.json
+c:\users\raule\Source\repos\Conditional\Conditional\bin\Debug\netcoreapp2.0\Conditional.runtimeconfig.dev.json
+c:\users\raule\Source\repos\Conditional\Conditional\bin\Debug\netcoreapp2.0\Conditional.dll
+c:\users\raule\Source\repos\Conditional\Conditional\bin\Debug\netcoreapp2.0\Conditional.pdb
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.csprojResolveAssemblyReference.cache
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.csproj.CoreCompileInputs.cache
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.AssemblyInfoInputs.cache
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.AssemblyInfo.cs
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.dll
+c:\users\raule\Source\repos\Conditional\Conditional\obj\Debug\netcoreapp2.0\Conditional.pdb
